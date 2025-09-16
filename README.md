@@ -2,6 +2,8 @@
 
 eu prefiro java
 
+import java.util.Scanner;
+
 publi class JavaBom{
     public static void main (String[] args) {
 
