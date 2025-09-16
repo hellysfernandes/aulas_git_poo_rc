@@ -13,6 +13,6 @@ publi class JavaBom{
 
         idade = input.nextint();
 
-        System.out.println(idade);
+        System.out.println("sua idade é "+idade);
     }
 }
