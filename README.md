@@ -1,5 +1,7 @@
 # aulas_git_poo_rc
 
+#git para quem é adoravel
+
 eu prefiro java
 
 import java.util.Scanner;
